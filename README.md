@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name:Mathavan V
+## Register No:212223110026
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -77,4 +79,3 @@ Client-server chat applications are foundational to real-time communication over
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
-
